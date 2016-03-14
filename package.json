@@ -1,0 +1,10 @@
+{
+	"name": "angular-todo",
+	"version": "0.0.1",
+	"descripcion": "Angular App",
+	"dependencies": {
+		"express": "~3.x",
+		"mongoose": "latest"
+	}
+
+}
